@@ -1,0 +1,12 @@
+OPS445 Lab Report - System Information for running ./CheckLab1.py
+=================================================================
+    User login name: ceril
+    Git Email: catalan@myseneca.ca
+    Linux system name: ceril-VM
+    Python executable: /usr/bin/python3
+    Python version:  3.12.3 (main, Mar 23 2026, 19:04:32) [GCC 13.3.0]
+    VS Code version:  1.119.0 0
+    OS Platform: linux
+    Working Directory: /home/ceril/ops445/lab1
+    Start at: Sat May  9 20:49:28 2026
+=================================================================
